@@ -74,7 +74,7 @@
   font-family: 'Work Sans', sans-serif;
 }
 
-.submit-button {
+.submit-button, .top-button {
   margin-top: 20px;
   color: #fff;
   background-color: #f6c;
@@ -91,6 +91,10 @@
 
 .required {
   color:#f6c;
+}
+
+.top-button {
+  margin: 0 auto;
 }
 
 /* Flexbox Styles */
