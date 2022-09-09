@@ -378,6 +378,10 @@ body {
     margin-top: 50px;
   }
 
+  .carousel-item {
+    height: 24rem;
+    }
+
   .homepage-container {
     top: 15%;
     left: 50%;
