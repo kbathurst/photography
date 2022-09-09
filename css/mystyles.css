@@ -1,3 +1,7 @@
+body {
+  overflow: hidden;
+}
+
 /* Page Header Styles */
 
 #contact-header {
@@ -44,6 +48,9 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+
 
 /* About Page Paragraph */
 
