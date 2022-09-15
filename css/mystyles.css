@@ -230,6 +230,7 @@
 }
 
 
+
 /* Navbar Fonts */
 
 .navbar-brand {
@@ -364,12 +365,13 @@
 
  }
 
+
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) { 
 
-  body {
+  /* body {
     overflow: hidden;
-  }
+  } */
   
   .lead {
     font-size: 5rem;
@@ -380,7 +382,7 @@
   }
 
   .carousel-item {
-    height: 24rem;
+    height: 30rem;
     }
 
   .homepage-container {
